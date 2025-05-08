@@ -1,0 +1,27 @@
+h1{
+  color: white;
+}
+body{
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  font-family: 'Creepster', cursive;
+}
+.slide{
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  font-size: 2em
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  z-index: 1;
+}
+#slide1 {
+    background-image: url("https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-a8b4-620a-b8a7-71b586292426/raw?se=2025-05-08T16%3A18%3A09Z&sp=r&sv=2024-08-04&sr=b&scid=ae7ffd9d-feaf-5c8b-b619-99cb885e76cc&skoid=cdb71e28-0a5b-4faa-8cf5-de6084d65b8f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-08T06%3A43%3A53Z&ske=2025-05-09T06%3A43%3A53Z&sks=b&skv=2024-08-04&sig=RdeMiRJwUm3QsFrHmEwP2hlIKuRQUl8R6fx3ZFE9ifU%3D");
+  z-index: 1;
+  background-size: cover;
+  background-position: center;
+}
